@@ -20,5 +20,5 @@ class formaDeHero {
     }
 }
 
-let felipaoDaHero = new FormaDeHero("Felipão", 72, "ninja")
+let felipaoDaHero = new formaDeHero("Felipão", 72, "ninja")
 felipaoDaHero.atack()
