@@ -1,4 +1,4 @@
-class FormaDeHero {
+class formaDeHero {
     constructor(name, age, type) {
         this.name = name
         this.age = age
